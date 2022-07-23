@@ -2,7 +2,7 @@ init 5 python:
     addEvent(
         Event(
             persistent.farewell_database,
-            eventlabel="otter_bye_doctor",
+            eventlabel="bye_otter_doctor",
             prompt="I'm going to a doctor appointment.",
             unlocked=True,
             pool=True
@@ -10,7 +10,7 @@ init 5 python:
         code="BYE"
     )
 
-label otter_bye_doctor:
+label bye_otter_doctor:
     m "[player]! Are you okay?"
     m "Should I be worried about it?{nw}"
 $ _history_list.pop()
