@@ -5,6 +5,7 @@ init 5 python:
             eventlabel="bye_otter_cook",
             prompt="I'm going to cook a meal.",
             unlocked=True,
+            pool=True
         ),
         code="BYE"
     )
