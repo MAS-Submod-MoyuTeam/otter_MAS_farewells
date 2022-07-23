@@ -5,6 +5,7 @@ init 5 python:
             eventlabel="bye_otter_haircut",
             prompt="I'm going to have a haircut.",
             unlocked=True,
+            pool=True
         ),
         code="BYE"
     )
