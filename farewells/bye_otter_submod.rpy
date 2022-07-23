@@ -5,6 +5,7 @@ init 5 python:
             eventlabel="bye_otter_submod",
             prompt="I'm going to make additions to the game.",
             unlocked=True,
+            pool=True
         ),
         code="BYE"
     )
