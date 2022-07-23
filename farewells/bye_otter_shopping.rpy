@@ -9,7 +9,7 @@ init 5 python:
         code="BYE"
     )
 
-label otter_bye_shopping:
+label bye_otter_shopping:
     m 7wua "How fun, [player]!"
     m 7hua "Make sure to buy lots of great stuff."
     m 2hub "And to have fun, too!"
