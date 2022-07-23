@@ -10,9 +10,9 @@ init 5 python:
     )
 
 label otter_bye_haircut:
-    m "Oh!"
-    m "How I wish I could see it..."
-    m "Though I'm sure it will look amazing, [player]."
-    m "See you later!"
+    m 2wuo "Oh!"
+    m 2rksdra "How I wish I could see it..."
+    m 2hubla "Though I'm sure it will look amazing, [player]."
+    m 2hublb "See you later!"
     
 return "quit"
