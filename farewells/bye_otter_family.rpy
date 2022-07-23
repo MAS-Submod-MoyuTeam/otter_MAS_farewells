@@ -5,6 +5,7 @@ init 5 python:
             eventlabel="bye_otter_family",
             prompt="I'm going to spend time with family.",
             unlocked=True,
+            pool=True
         ),
         code="BYE"
     )
