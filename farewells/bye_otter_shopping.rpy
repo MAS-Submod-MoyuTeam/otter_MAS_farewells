@@ -5,6 +5,7 @@ init 5 python:
             eventlabel="bye_otter_shopping",
             prompt="I'm going to prepare you some gifts.",
             unlocked=True,
+            pool=True
         ),
         code="BYE"
     )
