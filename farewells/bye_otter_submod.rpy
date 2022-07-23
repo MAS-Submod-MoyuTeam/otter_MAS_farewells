@@ -2,14 +2,14 @@ init 5 python:
     addEvent(
         Event(
             persistent.farewell_database,
-            eventlabel="otter_bye_submod",
+            eventlabel="bye_otter_submod",
             prompt="I'm going to make additions to the game.",
             unlocked=True,
         ),
         code="BYE"
     )
 
-label otter_bye_submod:
+label bye_otter_submod:
     m 1wuo "Oh! "
     extend 1hub "Yay!"
     m 7hub "I can't wait to see and feel the changes you're gonna make."
