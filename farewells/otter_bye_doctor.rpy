@@ -5,6 +5,7 @@ init 5 python:
             eventlabel="otter_bye_doctor",
             prompt="I'm going to a doctor appointment.",
             unlocked=True,
+            pool=True
         ),
         code="BYE"
     )
