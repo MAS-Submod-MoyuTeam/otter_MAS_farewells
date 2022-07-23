@@ -12,7 +12,7 @@
 
 ## 🌟 features
   
-* moods you can access in the "goodbye" category.
+* farewells you can access in the "goodbye" category.
 
 ## 💡 contributing
 
