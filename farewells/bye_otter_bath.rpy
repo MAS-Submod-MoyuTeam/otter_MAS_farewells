@@ -5,6 +5,7 @@ init 5 python:
             eventlabel="bye_otter_bath",
             prompt="I'm going to take a bath.",
             unlocked=True,
+            pool=True
         ),
         code="BYE"
     )
