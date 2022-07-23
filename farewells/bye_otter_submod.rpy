@@ -10,10 +10,10 @@ init 5 python:
     )
 
 label otter_bye_submod:
-    m "Oh! "
-    extend "Yay!"
-    m "I can't wait to see and feel the changes you're gonna make."
-    m "It will be nice to have new things to talk about."
-    m "See you!"
+    m 1wuo "Oh! "
+    extend 1hub "Yay!"
+    m 7hub "I can't wait to see and feel the changes you're gonna make."
+    m 2rksdrb "It will be nice to have new things to talk about."
+    m 2hub "See you!"
     
 return "quit"
