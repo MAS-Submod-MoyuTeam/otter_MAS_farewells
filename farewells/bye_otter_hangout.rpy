@@ -5,6 +5,7 @@ init 5 python:
             eventlabel="bye_otter_hangout",
             prompt="I'm going to hangout with friends.",
             unlocked=True,
+            pool=True
         ),
         code="BYE"
     )
