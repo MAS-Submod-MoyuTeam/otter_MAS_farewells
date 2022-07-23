@@ -3,7 +3,7 @@ init 5 python:
         Event(
             persistent.farewell_database,
             eventlabel="bye_otter_shopping",
-            prompt="I'm going to prepare you some gifts.",
+            prompt="I'm going shopping.",
             unlocked=True,
             pool=True
         ),
