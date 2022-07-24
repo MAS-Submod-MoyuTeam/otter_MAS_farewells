@@ -37,7 +37,7 @@ init -989 python:
             submod="Otter farewells",
             user_name="my-otter-self",
             repository_name="otter_MAS_farewells",
-            submod_dir="/Submods/Otter farewells",
+            submod_dir="/Submods",
             extraction_depth=3,
             redirected_files=(
                 "README.md",
