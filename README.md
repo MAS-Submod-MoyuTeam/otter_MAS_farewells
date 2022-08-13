@@ -10,6 +10,8 @@
   </a>
 </p>
 
+[简体中文](README_zhCN.md)
+
 ## 🌟 features
   
 * farewells you can access in the "goodbye" category.
